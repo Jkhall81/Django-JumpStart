@@ -1,0 +1,19 @@
+1. Think of a name
+
+2. Cli tool integrated with manage.py (Django) or create a a simple GUI?
+
+3. Decide what features are going to be included.
+
+4. How to make it pip installable!!  cool
+
+5. Do the coding
+
+6. Github page
+
+7. Make a landing page with version and documentation
+
+8. Testing
+
+9. Decide is it going to be a package or library or what
+
+10. Pretty sure it will be made in python.
